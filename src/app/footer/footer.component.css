@@ -1,0 +1,13 @@
+footer{
+  background-color: black;
+}
+
+footer p{
+  margin-top: 10px;
+  color: azure;
+}
+
+footer i{
+  margin-top: 5px;
+  margin-right: 5px;
+}
